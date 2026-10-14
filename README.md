@@ -15,7 +15,7 @@ Desain antarmuka aplikasi mengacu secara presisi pada **wireframe tugas mandiri*
 - **Mata Kuliah** : Pemrograman Mobile
 - **Pertemuan** : Pertemuan 7
 - **Topik Praktikum** : Widget dan Layout Flutter
-- **Link Repositori GitHub** : `https://github.com/[username]/profil_mahasiswa`
+- **Link Repositori GitHub** : `https://github.com/lutfim123/profil_mahasiswa`
 
 ---
 
